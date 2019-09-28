@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11742" started-at="2019-09-20T19:29:24Z" finished-at="2019-09-20T19:29:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11742" started-at="2019-09-20T19:29:24Z" finished-at="2019-09-20T19:29:36Z">
+      <class name="day8.ExtentReport">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day8.ExtentReport@731f8236]" name="beforeTest" is-config="true" duration-ms="2829" started-at="2019-09-20T12:29:24Z" finished-at="2019-09-20T12:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Login()[pri:1, instance:day8.ExtentReport@731f8236]" name="Login" duration-ms="4499" started-at="2019-09-20T12:29:27Z" finished-at="2019-09-20T12:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="autoCommit()[pri:2, instance:day8.ExtentReport@731f8236]" name="autoCommit" duration-ms="4293" started-at="2019-09-20T12:29:31Z" depends-on-methods="day8.ExtentReport.Login" finished-at="2019-09-20T12:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoCommit -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day8.ExtentReport@731f8236]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-09-20T12:29:36Z" finished-at="2019-09-20T12:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- day8.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

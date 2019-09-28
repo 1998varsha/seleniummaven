@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44044" started-at="2019-09-19T22:02:04Z" finished-at="2019-09-19T22:02:48Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="44044" started-at="2019-09-19T22:02:04Z" finished-at="2019-09-19T22:02:48Z">
+      <class name="day6Maven.FirstNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day6Maven.FirstNG@1068e947]" name="beforeTest" is-config="true" duration-ms="2937" started-at="2019-09-19T15:02:04Z" finished-at="2019-09-19T15:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:day6Maven.FirstNG@1068e947]" name="f" duration-ms="40971" started-at="2019-09-19T15:02:07Z" finished-at="2019-09-19T15:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day6Maven.FirstNG@1068e947]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-09-19T15:02:48Z" finished-at="2019-09-19T15:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- day6Maven.FirstNG -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
